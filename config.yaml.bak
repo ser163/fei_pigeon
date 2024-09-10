@@ -1,0 +1,2 @@
+webhook: https://open.feishu.cn/open-apis/bot/v2/hook/YOUR_ACCESS_TOKEN_HERE
+secret: YOUR_SECRET_HERE
